@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student who really like learning to code and wish to become a software engineer in a near future hopefully.
+
 <!--
 **C8H9NO2-1/C8H9NO2-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
